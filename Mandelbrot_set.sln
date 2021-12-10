@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mandelbrot_set", "Mandelbrot_set\Mandelbrot_set.csproj", "{3C98DB88-E83B-4ECC-890D-A56E62718870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{B299EA4E-B6FD-4152-B681-18682CC8312E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C98DB88-E83B-4ECC-890D-A56E62718870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C98DB88-E83B-4ECC-890D-A56E62718870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C98DB88-E83B-4ECC-890D-A56E62718870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C98DB88-E83B-4ECC-890D-A56E62718870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B299EA4E-B6FD-4152-B681-18682CC8312E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B299EA4E-B6FD-4152-B681-18682CC8312E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B299EA4E-B6FD-4152-B681-18682CC8312E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B299EA4E-B6FD-4152-B681-18682CC8312E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD01032-757E-4F48-98D3-491CE68B46DB}
+	EndGlobalSection
+EndGlobal
